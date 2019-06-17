@@ -4,7 +4,7 @@ You can use the [editor on GitHub](https://github.com/Evandr0/curso-html/edit/ma
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-<p>Your site is published at https://evandr0.github.io/curso-html/</p>
+<p>Your site is published at <a href="https://evandr0.github.io/curso-html"> Click here/</p>
 
 ### Markdown
 
